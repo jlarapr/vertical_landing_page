@@ -1,3 +1,6 @@
+// Es un View no usa un Scaffold
+// Solo las paginas usan un Scaffold
+
 import "package:flutter/material.dart";
 import "package:google_fonts/google_fonts.dart";
 import "package:vertical_landing_page/src/ui/configure.dart";
