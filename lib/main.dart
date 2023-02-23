@@ -1,7 +1,7 @@
 /*
 * By Jose Lara
-* 2023-02
-* By Test
+* 2023-02-23
+* Flutter web Test
 * */
 
 import 'package:flutter/material.dart';
@@ -22,7 +22,7 @@ class AppState extends StatelessWidget {
           create: (_) => PageProvider(),
         ),
       ],
-      child: MyApp(),
+      child: const MyApp(),
     );
   }
 }
