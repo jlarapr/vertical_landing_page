@@ -1,3 +1,8 @@
+/*
+* By Jose Lara
+* 2023-02
+* */
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:vertical_landing_page/src/core/providers/page_provider.dart';
